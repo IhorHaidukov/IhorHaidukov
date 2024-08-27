@@ -2,6 +2,6 @@ package Program;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("My repository");
+        System.out.println("Hello People");
     }
 }
